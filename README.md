@@ -14,8 +14,9 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/view/computer-work-online-gif-14640055" width="750" alt="Software Developer Animation"/>
+  <img src="https://media.tenor.com/images/2c672a3c8c9be0ad47fa07312e33be60/tenor.gif" width="750" alt="Software Developer Animation"/>
 </div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
