@@ -107,8 +107,8 @@ I'm a full-stack web developer and Data analyst currently pursuing a B.Tech in *
 
 <p align="center">
 <a href="https://github.com/rythmokay">
- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rythmokay&theme=tokyonight&hide_border=true&layout=compact" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rythmokay&theme=tokyonight&utcOffset=5.30" />
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mansiaggarwal23&show_icons=true&theme=radical" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansiaggarwal23&theme=city_lights" />
 </a>
 </p>
 
