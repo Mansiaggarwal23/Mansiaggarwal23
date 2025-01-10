@@ -100,9 +100,8 @@ I'm a full-stack web developer and Data analyst currently pursuing a B.Tech in *
 
 
 <p align="center">
-<a href="https://github.com/Mansiaggarwal23">
-   <img src="https://streak-stats.demolab.com?user=Mansiaggarwal23&theme=tokyonight-duo&fire=EB5454" alt="GitHub Streak" />
-</a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Mansiaggarwal23&theme=tokyonight-duo&fire=EB5454" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
