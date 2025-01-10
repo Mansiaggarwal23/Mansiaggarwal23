@@ -101,7 +101,7 @@ I'm a full-stack web developer and Data analyst currently pursuing a B.Tech in *
 
 <p align="center">
 <a href="https://github.com/mansiaggarwal23">
-  <img width="49%" src="https://streak-stats.demolab.com?user=mansiaggarwal23&theme=tokyonight&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mansiaggarwal23&theme=tokyonight&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF" />
 </a>
 </p>
 
@@ -112,15 +112,12 @@ I'm a full-stack web developer and Data analyst currently pursuing a B.Tech in *
 </a>
 </p>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rythmokay&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4F46E5&line=4F46E5&point=FFFFFF&area_color=4F46E5&title_color=FFFFFF&area=true&hide_border=true&radius=8" />
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Let's Connect!
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Open+to+collaborating+on+innovative+projects;Let's+build+something+amazing+together;Feel+free+to+reach+out+for+opportunities!" alt="Connect Message" />
+    <img src="https://readme-typing-svg.demolab.com?weight=600&duration=3000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Excited+to+team+up+on+groundbreaking+projects;Let%E2%80%99s+create+something+extraordinary+together;Don%E2%80%99t+hesitate+to+connect+for+new+opportunities!!" alt="Connect Message" />
   </a>
 </div>
 
