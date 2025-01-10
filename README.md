@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/images/2c672a3c8c9be0ad47fa07312e33be60/tenor.gif" width="750" alt="Software Developer Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750" alt="Software Developer Animation"/>
 </div>
 
 
