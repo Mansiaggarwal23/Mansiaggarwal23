@@ -20,7 +20,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **AI and Data Science**. My journey in tech is driven by a passion for creating impactful solutions through code and data. I specialize in:
+I'm a full-stack web developer and Data analyst currently pursuing a B.Tech in **AI and Machine Learning**. My passion for technology fuels my drive to build meaningful solutions using code and data. I specialize in:
 
 - 🎯 Web Development & Data-Driven Applications
 - 🤖 Machine Learning & AI Implementation
@@ -28,22 +28,20 @@ I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **A
 - 💡 Problem-Solving & Algorithm Design
 
 **Current Focus:**
-- Building robust full-stack applications
-- Exploring advanced ML/AI concepts
-- Contributing to open-source projects
-- Expanding my freelance portfolio
+- Developing scalable full-stack systems
+- Delving into cutting-edge ML/AI techniques
+- Creating innovative, real-world solutions
+- Continuously learning and adapting to new technologies
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Connect with Me
 <div align="center">
 
-[![X (Twitter)](https://img.shields.io/badge/-follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://twitter.com/rythmokay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/rythm-jagga-393791309/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-profile-000000?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF)](https://kaggle.com/rythmj)
-[![Instagram](https://img.shields.io/badge/Instagram-follow-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/rythm_511)
-[![YouTube](https://img.shields.io/badge/YouTube-watch-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@codingduck-quackquack)
-[![LeetCode](https://img.shields.io/badge/LeetCode-solve-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/rythmjagga1609/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-code-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46)](https://www.geeksforgeeks.org/user/rythmgfg/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Contact-000000?style=for-the-badge&logo=fontawesome&logoColor=white&labelColor=purple)](https://rythm-five.vercel.app/)
+[![X (Twitter)](https://img.shields.io/badge/-follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/MansiAggar8785)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/mansi-aggarwal-26681925b/)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/mansiagg23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-solve-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/Mansi_Aggarwal/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-code-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46)](https://www.geeksforgeeks.org/user/mansiaggakqbu/)
+
 
 </div>
 
@@ -59,7 +57,7 @@ I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **A
 <details>
 <summary>⚙️ Backend & Database</summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring,postgresql&theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&theme=dark" alt="Backend Skills" />
 </div>
 </details>
 
@@ -73,7 +71,7 @@ I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **A
 <details>
 <summary>🤖 AI & Data Science</summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="ML Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" alt="ML Skills" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
 </div>
@@ -93,7 +91,7 @@ I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **A
 <details>
 <summary>🛠️ Tools & Technologies</summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,pycharm,figma&theme=dark" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,pycharm&theme=dark" alt="Development Tools" />
 </div>
 </details>
 
@@ -102,9 +100,8 @@ I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **A
 
 
 <p align="center">
-<a href="https://github.com/rythmokay">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rythmokay&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4F46E5&title_color=aqua" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=rythmokay&theme=tokyonight&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF" />
+<a href="https://github.com/Mansiaggarwal23">
+   <img src="https://streak-stats.demolab.com?user=Mansiaggarwal23&theme=tokyonight-duo&fire=EB5454" alt="GitHub Streak" />
 </a>
 </p>
 
