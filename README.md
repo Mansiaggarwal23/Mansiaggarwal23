@@ -5,9 +5,10 @@
 </div>
 
 <div align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?weight=600&duration=3000&color=47C7F7&background=282A3600&multiline=true&width=850&height=120&lines=Driving+innovation+through+technology+and+expertise;Delivering+impactful+solutions+that+shape+the+future+and+inspire+progress" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?weight=600&duration=3000&color=47C7F7&background=282A3600&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Driving+innovation+through+technology+and+expertise;Delivering+impactful+solutions+that+shape+the+future+and+inspire+progress" alt="Typing SVG" />
 </a>
+
 
 </div>
 
