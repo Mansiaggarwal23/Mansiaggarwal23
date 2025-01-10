@@ -104,7 +104,11 @@ I'm a full-stack web developer and Data analyst currently pursuing a B.Tech in *
 <a href="https://github.com/mansiaggarwal23">
    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mansiaggarwal23&show_icons=true&theme=radical" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=mansiaggarwal23&theme=tokyonight&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF" />
-  
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mansiaggarwal23">
   <img width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansiaggarwal23&theme=moonlight" />
   <img width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mansiaggarwal23&theme=moonlight&utcOffset=8" />
 </a>
