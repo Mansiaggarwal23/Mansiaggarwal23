@@ -102,15 +102,15 @@ I'm a full-stack web developer and Data analyst currently pursuing a B.Tech in *
 
 <p align="center">
 <a href="https://github.com/mansiaggarwal23">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mansiaggarwal23&show_icons=true&theme=radical" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mansiaggarwal23&theme=tokyonight&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mansiaggarwal23&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4F46E5&title_color=aqua" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=mansiaggarwal23&theme=tokyonight&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/mansiaggarwal23">
-  <img width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansiaggarwal23&theme=moonlight" />
-  <img width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mansiaggarwal23&theme=moonlight&utcOffset=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansiaggarwal23&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mansiaggarwal23&theme=tokyonight&utcOffset=5.30" />
 </a>
 </p>
 
