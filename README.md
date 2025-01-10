@@ -1,12 +1,12 @@
 # Hi, I'm Mansi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <b><span style="color: #BD93F9">Full-stack Web Developer</span> • <span style="color: #50FA7B">AI & Data Science Enthusiast</span> • <span style="color: #FF79C6">Freelancer</span></b>
+  <b><span style="color: #BD93F9">Full-stack Web Developer</span> • <span style="color: #50FA7B">AI & Data Science Enthusiast</span> </b>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=Building+digital+solutions+through+code+and+data;Exploring+the+intersection+of+AI+and+web+development;Turning+ideas+into+reality%2C+one+project+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/demo/?weight=600&duration=3000&color=47C7F7&background=282A3600&multiline=true&width=850&height=120&lines=Driving+innovation+through+technology+and+expertise+;Delivering+impactful+solutions+that+shape+the+future+and+inspire+progress" alt="Typing SVG" />
   </a>
 </div>
 
