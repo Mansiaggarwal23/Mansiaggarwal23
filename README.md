@@ -1,7 +1,7 @@
 # Hi, I'm Mansi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <b><span style="color: #BD93F9">Full-stack Web Developer</span> • <span style="color: #50FA7B">AI & Data Science Enthusiast</span> </b>
+  <b> • <span style="color: #BD93F9">Full-stack Web Developer</span> • <span style="color: #50FA7B">AI & Data Science Enthusiast</span> • <span style="color: #50FA7B">Machine Learning Specialist</span> </b>
 </div>
 
 <div align="center">
